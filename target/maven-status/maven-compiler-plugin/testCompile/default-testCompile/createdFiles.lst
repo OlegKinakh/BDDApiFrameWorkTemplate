@@ -1,0 +1,9 @@
+com\automation\endpoints\Base.class
+com\automation\pojos\User.class
+com\automation\endpoints\UserEndpoint.class
+com\automation\runner\TestRunner.class
+com\automation\utils\DbResponse.class
+com\automation\stepDefs\UserSteps.class
+com\automation\utils\ConfigReader.class
+com\automation\stepDefs\Hooks.class
+com\automation\utils\Serializers.class
